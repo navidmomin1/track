@@ -1,0 +1,5 @@
+{
+    "require": {
+        "monolog/monolog": "v1.23.0"
+    }
+}

@@ -1,0 +1,8 @@
+[2018-05-04 19:37:13] tracker_logger.INFO: for stats: stats=Y, from=YYYY-MM-DD HH:MM:SS to=YYYY-MM-DD HH:MM:SS, should be present for display info on token: token, should be present for token generation: emid, should be present  [] []
+[2018-05-04 19:41:27] tracker_logger.ERROR: success [] []
+[2018-05-04 19:42:26] tracker_logger.ERROR: success [] []
+[2018-05-04 19:42:26] tracker_logger.ERROR: success [] []
+[2018-05-04 19:45:38] tracker_logger.ERROR: success [] []
+[2018-05-04 19:45:50] tracker_logger.ERROR: success [] []
+[2018-05-04 19:45:50] tracker_logger.ERROR: success [] []
+[2018-05-04 19:46:36] tracker_logger.ERROR: success [] []
